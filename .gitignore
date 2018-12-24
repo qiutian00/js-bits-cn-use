@@ -1,0 +1,6 @@
+/**
+  * git commit ignore file list
+  */
+
+# idea setting
+.idea/*
